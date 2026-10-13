@@ -1,4 +1,4 @@
-I am a [public-interest technologist] at the [Freedom of the Press Foundation], where I work on the [SecureDrop] whistleblowing tool for secure communications between journalists and sources.
+I am a doctoral researcher in information security at the [Institute for Computer Science, Artificial Intelligence, and Technology][INSAIT] and a research engineer for [SecureDrop] and the [SecureDrop Protocol] at the [Freedom of the Press Foundation].
 
 
 ---
@@ -10,5 +10,6 @@ Frank Bidart, ["Advice to the Players"][Bidart]
 
 [Bidart]: https://pen.org/three-poems-from-star-dust/
 [Freedom of the Press Foundation]: https://freedom.press/
-[public-interest technologist]: https://public-interest-tech.com/
+[INSAIT]: https://insait.ai
 [SecureDrop]: https://securedrop.org/
+[SecureDrop Protocol]: https://github.com/freedomofpress/securedrop-protocol
