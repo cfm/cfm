@@ -1,4 +1,8 @@
-I am a doctoral researcher in information security at the [Institute for Computer Science, Artificial Intelligence, and Technology][INSAIT] and a research engineer for [SecureDrop] and the [SecureDrop Protocol] at the [Freedom of the Press Foundation].
+I am a researcher and [public-interest technologist] at the [Institute for Computer Science, Artificial Intelligence, and Technology][INSAIT] and the [Freedom of the Press Foundation].
+
+[Freedom of the Press Foundation]: https://freedom.press/
+[INSAIT]: https://insait.ai
+[public-interest technologist]: https://public-interest-tech.com/
 
 
 ---
@@ -9,7 +13,3 @@ Frank Bidart, ["Advice to the Players"][Bidart]
 
 
 [Bidart]: https://pen.org/three-poems-from-star-dust/
-[Freedom of the Press Foundation]: https://freedom.press/
-[INSAIT]: https://insait.ai
-[SecureDrop]: https://securedrop.org/
-[SecureDrop Protocol]: https://github.com/freedomofpress/securedrop-protocol
